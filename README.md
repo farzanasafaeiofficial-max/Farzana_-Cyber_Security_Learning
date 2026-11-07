@@ -1,4 +1,4 @@
-# Farzana_-Cyber_Security_Learning 
+# Farzana_Cyber_Security_Learning 
 Welcome to my cybersecurity learning repository.
 
 This repository documents my progress as I learn networking, cybersecurity fundamentals, Linux, Python, and practical security tools.
